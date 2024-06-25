@@ -1,0 +1,14 @@
+h1 {
+    font-size: 36px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 100px;
+    background-color: lightblue;
+
+}
+
+div {
+    text-align: center;
+    height: 0px;
+    width: auto;
+}

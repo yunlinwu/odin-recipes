@@ -1,0 +1,17 @@
+h1 {
+    font-size: 36px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 100px;
+    background-color: lightblue;
+
+}
+
+ul {
+    font-size: 28px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 50px;
+    list-style-position: inside;
+    color: blue;
+}
