@@ -2,13 +2,40 @@ h1 {
     font-size: 36px;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    padding: 100px;
+    padding: 25px;
     background-color: lightblue;
 
 }
 
-div {
-    text-align: center;
-    height: 0px;
+p {
+    background-color: azure;
+    font-size: 24px;
+}
+
+.image {
+    display: block;
+    height: 300px;
     width: auto;
+    padding: 45px;
+    margin: auto;
+    background-color: antiquewhite;
+} 
+
+ul {
+    background-color: beige;
+}
+
+ol {
+    background-color: aquamarine;
+}
+
+.steps {
+    text-align: center;
+}
+.sauce {
+    text-align: center;
+}
+
+.marinade {
+    text-align: center;
 }
